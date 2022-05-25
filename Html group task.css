@@ -1,0 +1,29 @@
+
+
+.background-image{
+    background-image: url("revolt.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+  
+  ul{
+    color: rgb(243, 243, 243);
+    align-self: center;
+  }
+  p{
+   text-align: center;
+   color: aliceblue;
+  }
+  h1{
+    text-align: center;
+    color: aquamarine;
+    font-family: fantasy;
+  }
+  h3{
+    color: aqua;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  Header img{
+    float: right;
+   }
